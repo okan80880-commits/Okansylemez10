@@ -11,14 +11,14 @@
 
 ### 📊 GitHub Stats
 
-![Mabolla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mabolla&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabolla&layout=compact)
+![okan80880's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okan80880&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okan80880&layout=compact)
 
 ---
 
 ### 🌍 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mabolla&color=grey)
+![Visitor Count](https://komarev.com/ghpvc/?username=okan80880&color=grey)
 
 ---
 
